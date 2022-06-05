@@ -5,4 +5,5 @@
    1. client에서 ROS로 보내기
 
 작동 영상
-{% include video id="u4ZDmtjLERw" provider="youtube" %}
+[{% include video id="u4ZDmtjLERw" provider="youtube" %}
+](https://youtu.be/u4ZDmtjLERw)
